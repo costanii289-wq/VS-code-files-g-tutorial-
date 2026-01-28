@@ -252,7 +252,7 @@ LIMIT 25;
 We created a new document called 4_top_paying_skills for our new query. 
 As we did in our previous query, we retrieved the Skills_dim table for we needed the names on it, and we also retrieved the salary data from the Job Postings Fact table, and then, we did an average aggregation. 
 We copied the previous query making some slightly changes to fit our purposes on looking for the average salary aggregation.
-We updated the GROUP BY for skills, and replace the LIMIT from 5 to 25. Therefore we made the statement salary_year_avg IN NOT NULL for retriving values with figures only, we add an alias AS avg_salary then, ORDER BY sorting by avg_salary in descendent order with the key word DESC. To round up the numbers in our query we used the ROUND key word.
+We updated the GROUP BY for skills, and replace the LIMIT from 5 to 25. Therefore we made the statement salary_year_avg IS NOT NULL for retriving values with figures only, we add an alias AS avg_salary then, ORDER BY sorting by avg_salary in descendent order with the key word DESC. To round up the numbers in our query we used the ROUND key word.
 
 These are the results we got running the Query: 
 
@@ -418,7 +418,10 @@ It was an introductory project for my journey as data analyst, I learned how to 
 What we found in this data is that, data analyst roles offer high paying jobs for those willing to learn and dive into learning the most important tools for day-to-day work. Nevertheless, it's important to keep up with the new trends of the job market for data analyst roles as it evolves time to time. 
 
 # Acknowledgements 
-My special thanks to my Tutor Marius for the help and guidance through my learning process in this project, also my special thanks to LukeBarousse for providing this complete course that is completely accessible even for the less fortunate to gain one of the most important skills for a data analyst. And my thanks to Coursera for teaching the abstract part of data analysis, bringing analysis into a human enviroment outside of the technical prospective. 
+My special thanks to my Tutor Marius for the help and guidance through my learning process in this project, also my special thanks to LukeBarousse for providing this complete course that is completely accessible even for the less fortunate to gain one of the most important skills for a data analyst. And my thanks to Coursera for teaching the abstract part of data analysis, bringing analysis into a human enviroment outside of the technical prospective.    
+
+
+
 
 
 
