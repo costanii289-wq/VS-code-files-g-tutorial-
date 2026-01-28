@@ -2,7 +2,7 @@
 Connect with the trends from the job market in 2023 by exploring high demands and salaries in this project.
 # background 
 This project is the frutification of my passion for turning raw numbers into
-real meaning. Compelled by the desire of understanding how analyzing a data really works in a real scenario, I decided to dive into the Lukebarousse's course to learn the ropes of analyzing the data, from learning basic queries to work in my first experience with a guided project. 
+real meaning. Compelled by the desire of understanding how analyzing data really works in a real scenario, I decided to dive into the Lukebarousse's course to learn the ropes of analyzing the data, from learning basic queries to work in my first experience with a guided project. 
 
  Data hails from my [SQL Course] (https://lukebarousse.com/sql) Where I had my first experience applying concepts to a project. 
 
@@ -67,7 +67,7 @@ Later on, we added a LEFT JOIN to connect the job_postings_fact table with compa
 | 1638595 | Senior Data Analyst                                  | Anywhere | Full-time | 185,000        | 2023-08-15            | Patterned Learning AI       |
 
 
-**We juste have found what are the top paying roles for a data analyst in this first query showing us the the top paying roles are:**
+**We found what are the top paying roles for a data analyst in this first query showing us the the top paying roles are:**
 - Data Analyst
 - Director of Analytics 
 - Associate Director - Data Insights 
