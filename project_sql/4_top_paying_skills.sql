@@ -118,7 +118,6 @@ LIMIT 25;
     "avg_salary": "121619"
   }
 ]
-Here are **clear, insight-focused takeaways written directly from the data**:
 
 * **PySpark is a clear outlier**, earning far more than any other skill, indicating
  that large-scale, distributed data processing is the highest-value capability for data 
